@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="userstatus">
+        <item>离线</item>
+        <item>在线</item>
+        <item>忙碌</item>
+        <item>离开</item>
+        <item>周公中</item>
+        <item>求交易</item>
+        <item>求开黑</item>
+    </string-array>   
+    <string-array name="game_mode">
+        <item>None</item>
+        <item>All Pick</item>
+        <item>Captain\'s Mode</item>
+        <item>Random Draft</item>
+        <item>Single Draft</item>
+        <item>All Random</item>
+        <item>Intro</item>
+        <item>Diretide</item>
+        <item>Reverse Captain\'s Mode</item>
+        <item>The Greeviling</item>
+        <item>Tutorial</item>
+        <item>Mid Only</item>
+        <item>Least Played</item>
+        <item>New Player Pool</item>
+        <item>Compendium Matchmaking</item>
+    </string-array>
+    <string-array name="side">
+        <item>Radiant</item>
+        <item>Dire</item>
+    </string-array>
+    <string-array name="lobby_type">
+        <item>Invalid </item>
+        <item>Public matchmaking </item>
+        <item>Practise </item>
+        <item>Tournament </item>
+        <item>utorial </item>
+        <item>Co-op with bots. </item>
+        <item>Team match </item>
+        <item>Solo Queue</item>
+    </string-array>
+    <string-array name="communityvisibilitystate">
+        <item>Private</item>
+        <item>Friends only</item>
+        <item>Friends of Friends</item>
+        <item>Users Only</item>
+        <item>Public</item>
+    </string-array>
+
+</resources>
